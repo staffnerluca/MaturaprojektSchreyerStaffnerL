@@ -1,7 +1,7 @@
 # Syntax
 
 ## Operatoren:
-+, -, *, /, %. **, !, 2/4, e\45,  
++, -, *, /, %. **, !, 2/4 (Wurzel), e\45 (log?),  
  
 ## Methoden:
 Mit Parameterliste:
@@ -28,4 +28,5 @@ function ctsort {
  
 ## Datenstrukturen:
 Primitiv: int, bool, char, null
+
 Nicht primitiv: List, Dic, Array, string, Matrix, complex
