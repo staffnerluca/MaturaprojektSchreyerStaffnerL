@@ -1,8 +1,9 @@
-Syntax
-Operatoren:
+# Syntax
+
+## Operatoren:
 +, -, *, /, %. **, !, 2/4, e\45,  
  
-Methoden:
+## Methoden:
 Mit Parameterliste:
 f ctsort(int num1) {
  
@@ -21,6 +22,6 @@ function ctsort {
  
 }
  
-Datenstrukturen:
+## Datenstrukturen:
 Primitiv: int, bool, char, null
 Nicht primitiv: List, Dic, Array, string, Matrix, complex
