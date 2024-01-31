@@ -22,3 +22,5 @@ function ctsort {
 }
  
 Datenstrukturen:
+Primitiv: int, bool, char, null
+Nicht primitiv: List, Dic, Array, string, Matrix, complex
